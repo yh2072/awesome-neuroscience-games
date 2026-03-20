@@ -1,4 +1,4 @@
-# Awesome Neuroscience Games · 认知神经科学互动课程
+# Awesome Neuroscience Games · 认知神经科学互动课程（基础版）
 
 本目录汇总认知神经科学相关互动游戏：按课程分块列出每节课的直达链接，并配有课程示意图，方便浏览与分享。
 
